@@ -11,7 +11,7 @@ const RoutesIndex = () => {
         <Suspense fallback={DefaultLoader}>
           <Routes>
             <Route path="/" element={<Layout />}>
-              <Route index element={<Home />} />
+              <Route index  path="/myportfolio" element={<Home />} />
               <Route index path="/projects" element={<WorkPage />} />
               <Route index path="/blogs" element={<BlogPage />} />
             </Route>
