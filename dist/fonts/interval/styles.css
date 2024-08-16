@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Interval Pro Regular';
+  src: url('/fonts/interval/IntervalproReg.otf');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Interval Pro Light';
+  src: url('/fonts/interval/IntervalproLight.otf');
+  font-display: swap;
+}
+
+.intervalProReg {
+  font-family: 'Interval Pro Regular';
+}
+
+.intervalProLight {
+  font-family: 'Interval Pro Light';
+}
