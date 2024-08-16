@@ -1,4 +1,4 @@
-import{j as t}from"./index-hHRrND1D.js";import{g as m,u as h,D as p}from"./index-CeaBBt6c.js";import{j as g,n}from"./Typography-C70rRNy2.js";import{G as a}from"./Grid--59dfcA0.js";import"./IconButton-9uULuG_p.js";const w=i=>({root:{padding:"4% 10%",justifyContent:"center",alignItems:"center"},title:{color:i.palette.secondary.main,fontSize:"2rem",[i.breakpoints.down("md")]:{fontSize:"1.5rem"}},subtitle:{color:i.palette.primary.main}}),x=m`
+import{j as t}from"./index-DHNyHi_v.js";import{g as m,u as h,D as p}from"./index-BGCPCozT.js";import{j as g,n}from"./Typography-BX9MtGAQ.js";import{G as a}from"./Grid-CIIn-vYA.js";import"./IconButton-D-C0Z5ve.js";const w=i=>({root:{padding:"4% 10%",justifyContent:"center",alignItems:"center"},title:{color:i.palette.secondary.main,fontSize:"2rem",[i.breakpoints.down("md")]:{fontSize:"1.5rem"}},subtitle:{color:i.palette.primary.main}}),x=m`
     query getAllProjects{
         projects{
             data{
