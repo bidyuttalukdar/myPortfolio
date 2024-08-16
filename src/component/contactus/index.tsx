@@ -67,7 +67,7 @@ const ContactUsComponent = () => {
                   variant="filled"
                 />
               </Grid>
-              <Grid item xs={12} align="center">
+              <Grid item xs={12}>
                 <Button variant="outlined" sx={classes.submitButton}>
                   Send &nbsp;
                   <KeyboardDoubleArrowRightIcon />

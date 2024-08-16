@@ -103,7 +103,7 @@ const Home = () => {
                 deliver exceptional user experiences.
               </p>
             </Grid>
-            <Grid item xs={12} md={6} p={6} align="center">
+            <Grid item xs={12} md={6} p={6}>
               <img
                 src="./images/productivity4.png"
                 alt="me"

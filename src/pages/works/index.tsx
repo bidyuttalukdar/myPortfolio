@@ -118,7 +118,7 @@ const WorkPage: React.FC = () => {
                   title={item.title}
                   link={item.url}
                   description=""
-                  imagePath={item?.imagepath || ""}
+                  imagePath=""
                   dateString=""
                 />
               </Grid>
